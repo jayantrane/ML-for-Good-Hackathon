@@ -1,0 +1,9 @@
+spacy==3.2.0
+nbconvert
+nltk
+pyLDAvis
+negspacy
+dframcy
+pyate
+sense2vec==1.0.0a1
+tabulate
